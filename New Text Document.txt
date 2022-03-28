@@ -1,0 +1,1 @@
+example of how to add a file to a repository using CLI and GIT
